@@ -22,6 +22,7 @@ Explanation: The array can be modified as
 the largest and the smallest is 17-6 = 11. 
 
 Algorithm: 
+
 	1. Sort the given array.
 	2. Set the ans to the difference between the least element of the array and the first element of an array.
 	3. Set minimum to the first element of array + k and maximum to last element - k of the array.
